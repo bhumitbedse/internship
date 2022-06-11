@@ -1,0 +1,4 @@
+1. composer create-project --prefer-dist laravel/laravel ecommerce  (for creating a project)
+2. composer require livewire/livewire (for creating a livewire) 
+3. configure database in phpmyadmin and enter db name in .env file
+4. php artisan make:livewire HomeComponent (make home component)
